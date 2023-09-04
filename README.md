@@ -7,7 +7,7 @@ in this project, I used Cucumber to create
 > 'Scenario' for clicking on a link, 
 > 'Scenario' with a parameterized object,
 > 'Scenario Outline' for multiple test runs,
-> And use '|' (pipe symbol) to create data table
+> And use '|' (pipe symbol) to create data table.
 
 Tools and technologies used ::
 > Java
@@ -16,9 +16,9 @@ Tools and technologies used ::
 > JUnit
 
 Includes ::
-> features   : this has different feature files
-> steps      : corresponding step definitions for features
-> elements   : elements used in the project
-> actions    : actions performed on the elements and in the project
-> testRunner : has runner class to run project
-> target     : has reports generated from testRunner
+> features   : this has different feature files.
+> steps      : corresponding step definitions for features.
+> elements   : elements used in the project.
+> actions    : actions performed on the elements and in the project.
+> testRunner : has runner class to run project.
+> target     : has reports generated from testRunner.
