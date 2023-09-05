@@ -5,7 +5,7 @@ by automating few searches on amazon.in and ebay.com
 
 in this project, I used Cucumber to create  
 1. 'Scenario' for clicking on a few links, 
-2. 'Scenario' with parameterized objecst,
+2. 'Scenario' with parameterized objects,
 3. 'Scenario Outline' for multiple test runs,
 4. And use of '|' (pipe symbol) to create data table.
 
